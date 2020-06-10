@@ -47,3 +47,6 @@ window.addEventListener('load', event => {
     });
   });
 });
+
+
+// module.exports = cards;
